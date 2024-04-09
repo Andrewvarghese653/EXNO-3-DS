@@ -31,7 +31,7 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       ```
+```
 Developed by : ANDREW VARGHESE V.S
 Reg No : 212222103001
 ```
